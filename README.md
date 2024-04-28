@@ -2,7 +2,7 @@
 
 <br/>
 🌱Aspiring Software Engineer sharing about my journey and learnings in tech <br/>
-👨‍💻Currently learning Computer Science and exploring how technology impacts digital space.<br/>
+👨‍💻Currently studying Computer Science and exploring how technology impacts digital space.<br/>
 <br/>
 
 

@@ -2,6 +2,7 @@
 
 <br/>
 🎨 I'm a creative and detail-oriented Web Designer who transforms ideas into visually stunning and user-friendly websites. With a strong focus on aesthetics, functionality, and responsiveness, I craft digital experiences that leave a lasting impact.(Check My Projects Below)
+<br/>
 🌱Aspiring Software Engineer sharing about my journey and learnings in tech <br/>
 👨‍💻Currently studying Computer Science and exploring how technology impacts digital space.<br/>
 <br/>

@@ -1,5 +1,6 @@
  # Hi there 👋 I'm Sharon Biwott
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Biwott362&label=Profile%20views&color=0e75b6&style=flat" alt="Biwott362" /> </p>
 <br/>
 🎨 I'm a creative and detail-oriented Web Designer who transforms ideas into visually stunning and user-friendly websites. With a strong focus on aesthetics, functionality, and responsiveness, I craft digital experiences that leave a lasting impact.(Check My Projects Below)
 <br/>
